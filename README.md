@@ -1,5 +1,5 @@
-# java-competition-programming
-This is the competition programming practice repository . I use Java language .
+# java-practice
+This is the competition programming practice repository .
 
 # How to run ?
 
